@@ -1,1 +1,0 @@
-# Protecao-do-navegador
